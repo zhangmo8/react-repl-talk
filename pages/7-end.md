@@ -1,9 +1,7 @@
 ---
-layout: statement
+class: text-center
 ---
 
-# Q&A
+# Thanks
 
-<!--
-notes
--->
+[Playground](https://repl.zm8.dev) · [GitHub](https://github.com/zhangmo8/repl-react)
