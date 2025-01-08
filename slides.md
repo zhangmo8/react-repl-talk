@@ -81,10 +81,20 @@ transition: slide-left
 src: ./pages/5-process-4.md
 ---
 
+
 ---
 transition: slide-left
 layout: iframe
 url: https://repl.zm8.dev
+---
+
+
+<!--
+Notes
+-->
+---
+transition: slide-left
+src: ./pages/6-how-to-use.md
 ---
 
 <!--
