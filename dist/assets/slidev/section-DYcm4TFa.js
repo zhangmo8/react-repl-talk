@@ -1,0 +1,1 @@
+import{o,b as a,e,f as t}from"../modules/vue-D507KtQs.js";import{u as r}from"./context-CpBC8WSg.js";const c={class:"slidev-layout section-1 grid grid-cols-2"},i={class:"pt-[45%] px-2"},l={class:"my-auto pt-[10%]"},m={__name:"section",setup(n){return r(),(s,d)=>(o(),a("div",c,[e("div",i,[t(s.$slots,"default")]),e("div",l,[t(s.$slots,"right")])]))}};export{m as _};
